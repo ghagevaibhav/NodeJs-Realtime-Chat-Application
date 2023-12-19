@@ -37,38 +37,38 @@ Follow these steps to set up and run the application on your local machine.
    cd backend
 
 
-4. **Install dependencies:**
+3. **Install dependencies:**
    
-  ```bash
-  npm install
+   ```bash
+   npm install
 
 
 4. **Configure ChatEngine.io credentials in the `.env` file.**
 
 5. **Run the backend server:**
 
-  ```bash
-  npm start
-
+   ```bash
+   npm start
 
 
 ### Frontend Setup
 
 1. **Open a new terminal and navigate to the frontend directory:**
 
-  ```bash
-    cd frontend
+   ```bash
+   cd frontend
 
 
 2. **Install dependencies:**
 
-  ```bash
-    npm install
+   ```bash
+   npm install
 
 
 3. **Start the React development server:**
-  ```bash
-  npm start
+   
+   ```bash
+   npm start
 
 
 4. **Open your browser and go to `http://localhost:3000` to access the application.**
