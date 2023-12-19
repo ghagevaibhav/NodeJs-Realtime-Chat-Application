@@ -31,13 +31,14 @@ Follow these steps to set up and run the application on your local machine.
    ```bash
    git clone https://github.com/your-username/realtime-chat-app.git
 
-
 2. **Navigate to the backend directory:**
+
    ```bash
    cd backend
 
 
-3. **Install dependencies:**
+4. **Install dependencies:**
+   
   ```bash
   npm install
 
@@ -45,6 +46,7 @@ Follow these steps to set up and run the application on your local machine.
 4. **Configure ChatEngine.io credentials in the `.env` file.**
 
 5. **Run the backend server:**
+
   ```bash
   npm start
 
@@ -53,13 +55,15 @@ Follow these steps to set up and run the application on your local machine.
 ### Frontend Setup
 
 1. **Open a new terminal and navigate to the frontend directory:**
+
   ```bash
-  cd frontend
+    cd frontend
 
 
 2. **Install dependencies:**
-```bash
-  npm install
+
+  ```bash
+    npm install
 
 
 3. **Start the React development server:**
