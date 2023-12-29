@@ -1,6 +1,6 @@
 # Realtime Chat App with Node.js, React.js, and ChatEngine.io
 
-Welcome to our Realtime Chat App project! In this application, we'll be building a feature-rich chat experience with user authentication, socket connections, real-time messaging, image and file attachments, group chats, direct messages (DMs), read receipts, and more. Our tech stack includes Node.js, Express for the backend, React.js for the frontend, and ChatEngine.io for hosting chats and providing APIs and Socket channels.
+Welcome to my Realtime Chat App project! In this application, we'll be building a feature-rich chat experience with user authentication, socket connections, real-time messaging, image and file attachments, group chats, direct messages (DMs), read receipts, and more. My tech stack includes Node.js, Express for the backend, React.js for the frontend, and ChatEngine.io for hosting chats and providing APIs and Socket channels.
 
 ## Features
 
